@@ -49,7 +49,7 @@ const About = () => {
             <h2>Hello World!</h2>
             <Row className="align-items-center">
                 <Col xs={12} lg={6} className="img-col">
-                    <img className="abt-img" src={toRotate[loopNum]} alt="Cindy" style={{opacity:opacity}}/>
+                    <img className="abt-img" src={toRotate[loopNum]} alt="Aaren" style={{opacity:opacity}}/>
                 </Col>
                 <Col xs={12} lg={5}>
                     <p>{about_text}</p>
