@@ -11,7 +11,7 @@ const Banner = () => {
     
     const [loopNum, setLoopNum] = useState(0)
     const [isDeleting, setIsDeleting] = useState(false)
-    const toRotate = ["full-stack developer", "software automation tester", "valorant addict"]
+    const toRotate = ["full-stack developer", "software automation tester", "official big back"]
     const [text, setText] = useState('')
     const [delta, setDelta] = useState(100)
     const [scrolled, setScrolled] = useState(false)
