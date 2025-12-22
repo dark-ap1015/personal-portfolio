@@ -1,0 +1,35 @@
+{
+    "Education": [
+        [
+            "Pennsylvania State University – University Park",
+            "BS in Computer Science",
+            "May 2028"
+        ],
+        [
+            "East Hamilton High School",
+            "High School Diploma",
+            "May 2024"
+        ]
+    ],
+
+    "Work": [
+        [
+            "Software Automation Testing Intern",
+            "Transmitio LLC",
+            "June 2025 - August 2025"
+        ]
+    ],
+
+    "Organizations": [
+        [
+            "Communications Chair",
+            "Penn State Fuzhou Student Association",
+            "March 2025 - Present"
+        ],
+        [
+            "Tech Team",
+            "Hack at Penn State (HackPSU)",
+            "February 2025 - Present"
+        ]
+    ]
+}
