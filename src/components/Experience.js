@@ -42,7 +42,7 @@ const Experience = () => {
             }
         }
 
-    }, [changing, opacity])
+    }, [changing, opacity, isDeleting, tempOpen])
 
     const changeOpen = (id) => {
         if(open === id) {

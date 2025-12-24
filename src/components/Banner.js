@@ -11,7 +11,7 @@ const Banner = () => {
     
     const [loopNum, setLoopNum] = useState(0)
     const [isDeleting, setIsDeleting] = useState(false)
-    const toRotate = ["full-stack developer", "software automation tester", "official big back"]
+    const toRotate = ["full-stack developer", "software automation tester", "big back"]
     const [text, setText] = useState('')
     const [delta, setDelta] = useState(100)
     const [scrolled, setScrolled] = useState(false)
@@ -65,7 +65,7 @@ const Banner = () => {
             <Container>
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7} className="column">
-                        <h1>{`I'm Cindy, a `}
+                        <h1>{`I'm Aaren, a `}
                             <span className="wrap">
                                 {text}
                             </span>

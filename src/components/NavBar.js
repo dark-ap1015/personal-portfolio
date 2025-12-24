@@ -45,13 +45,13 @@ const NavBar = () => {
                     </Nav>
                     <span className="navbar-text">
                         <div className="social-icon">
-                            <a href="https://www.linkedin.com/in/2023cyang/" target="_blank" rel="noreferrer">
+                            <a href="https://www.linkedin.com/in/aarenpan" target="_blank" rel="noreferrer">
                                 <img src={navIcon1} alt="LinkedIn" />
                             </a>
-                            <a href="https://github.com/ElemelonWind" target="_blank" rel="noreferrer">
+                            <a href="https://github.com/dark-ap1015" target="_blank" rel="noreferrer">
                                 <img src={navIcon2} alt="GitHub" />
                             </a>
-                            <a href="https://www.instagram.com/c.yang.2023/" target="_blank" rel="noreferrer">
+                            <a href="https://www.instagram.com/aarenpan/" target="_blank" rel="noreferrer">
                                 <img src={navIcon3} alt="Instagram" />
                             </a>
                         </div>
