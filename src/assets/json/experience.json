@@ -1,5 +1,5 @@
 {
-    "Education": [
+    "education": [
         [
             "Pennsylvania State University – University Park",
             "BS in Computer Science",
@@ -12,7 +12,7 @@
         ]
     ],
 
-    "Work": [
+    "work": [
         [
             "Software Automation Testing Intern",
             "Transmitio LLC",
@@ -20,7 +20,7 @@
         ]
     ],
 
-    "Organizations": [
+    "organizations": [
         [
             "Communications Chair",
             "Penn State Fuzhou Student Association",
