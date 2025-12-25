@@ -1,7 +1,7 @@
 .banner {
     margin-top: 0;
     padding: 150px 0 100px 0;
-    background-image: url('../img/header-bg.jpg');
+    background-image: url('../img/header1-bg.jpg');
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@
 
 @media screen and (max-width: 1200px) {
     .banner {
-        background-image: url('../img/header-bg.jpg');
+        background-image: url('../img/header1-bg.jpg');
         padding: 175px 0 100px 0;
         text-align: center;
     }

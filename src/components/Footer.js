@@ -20,7 +20,7 @@ const Footer = () => {
                     <img src={navIcon3} alt="Instagram" />
                 </a>
             </div>
-            <p>&copy; 2025 Aaren Pan. All rights reserved.</p>
+            <p>&copy; 2025 Aaren Pan. All rights reserved. Credits to Cindy Wang for the design inspiration.</p>
         </Container>
     </footer>
   )
