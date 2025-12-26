@@ -3,24 +3,25 @@
         ["JavaScript", 2019],
         ["Java", 2023],
         ["Python", 2024],
-        ["TypeScript", 2024],
         ["HTML/CSS", 2024],
+        ["TypeScript", 2025],
         ["Verilog", 2025]
     ],
 
     "Fullstack": [
         ["Flask", 2024],
         ["MongoDB", 2024],
-        ["React", 2024],
-        ["FireBase", 2024],
-        ["Next.js", 2024]
+        ["React", 2025],
+        ["FireBase", 2025],
+        ["Next.js", 2025],
+        ["NestJS", 2025]
     ],
 
     "Other": [
         ["Git", 2024],
         ["Linux", 2024],
-        ["Docker", 2024],
-        ["Selenium", 2024],
-        ["CI/CD", 2024]
+        ["Docker", 2025],
+        ["Selenium", 2025],
+        ["CI/CD Pipelines", 2025]
     ]
 }

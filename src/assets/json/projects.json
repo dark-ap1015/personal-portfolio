@@ -1,9 +1,9 @@
 {
-    "Project1": {
-        "tools": "Visual Studio 2025",
-        "description": "This is the project description",
-        "imagePath": "./header-bg.jpg",
-        "link": "google.com"
+    "Portfolio": {
+        "tools": "ReactJS, Bootstrap, CSS, EmailJS",
+        "description": "Wait, I've seen this before.",
+        "imagePath": "./Portfolio.png",
+        "link": "https://github.com/dark-ap1015/personal-portfolio"
     },
     
     "Project2": {

@@ -4,6 +4,7 @@ import { Navbar, Container, Nav } from 'react-bootstrap'
 import navIcon1 from '../assets/img/nav-icon1.svg'
 import navIcon2 from '../assets/img/nav-icon2.svg'
 import navIcon3 from '../assets/img/nav-icon3.svg'
+import navIcon4 from '../assets/img/nav-icon4.svg'
 import '../assets/css/NavBar.css'
 
 const NavBar = () => {
@@ -50,6 +51,9 @@ const NavBar = () => {
                             </a>
                             <a href="https://github.com/dark-ap1015" target="_blank" rel="noreferrer">
                                 <img src={navIcon2} alt="GitHub" />
+                            </a>
+                            <a href="https://gitlab.com/dark-ap1015" target="_blank" rel="noreferrer">
+                                <img src={navIcon4} alt="GitLab" />
                             </a>
                             <a href="https://www.instagram.com/aarenpan/" target="_blank" rel="noreferrer">
                                 <img src={navIcon3} alt="Instagram" />

@@ -74,6 +74,9 @@ const Banner = () => {
                         <div className="button-container">
                             <a href="https://github.com/dark-ap1015" target="_blank" rel="noreferrer">Stalk my GitHub <ArrowRightCircle size={25}/></a>
                         </div>
+                        <div className="button-container">
+                            <a href="https://gitlab.com/dark-ap1015" target="_blank" rel="noreferrer">Stalk my GitLab <ArrowRightCircle size={25}/></a>
+                        </div>
                     </Col>
                     <Col xs={12} md={6} xl={5} className="img-col">
                         <img src={headerImg} alt="header img" />

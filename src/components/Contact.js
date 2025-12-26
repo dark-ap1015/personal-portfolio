@@ -57,7 +57,7 @@ const Contact = () => {
                     <img src={contactImg} alt="Contact Me"/>
                 </Col>
                 <Col size={12} md={6}>
-                    <h1>Let's Connect</h1>
+                    <h1>Let's Connect!</h1>
                     <form ref={form} onSubmit={sendEmail}>
                         <Row>
                             <Col size={12} sm={6} className="px-1">
